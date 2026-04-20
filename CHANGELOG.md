@@ -9,3 +9,4 @@
 
 - Feature 1
 
+- Fix critical bug
